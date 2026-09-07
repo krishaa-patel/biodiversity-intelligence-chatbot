@@ -416,4 +416,3 @@ The goal is to provide:
 
 ---
 
-Developed for the **Darukaa.Earth AI/ML Engineer Hackathon**.
