@@ -1,6 +1,4 @@
-# 🌿 Biodiversity Intelligence
-
-AI-powered environmental decision-support chatbot built for the **Darukaa.Earth AI Biodiversity Intelligence Chatbot Hackathon**.
+# 🌿 EcoSignal AI — Evidence-Grounded Environmental Decision Intelligence
 
 The system combines scientific retrieval, multi-metric environmental reasoning, conversation memory, evidence-backed recommendations, and scientific grounding verification.
 
