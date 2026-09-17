@@ -414,3 +414,4 @@ The goal is to provide:
 
 ---
 
+Originally developed for the Darukaa.Earth AI Biodiversity Intelligence Hackathon Challenge and later refined as EcoSignal AI.
